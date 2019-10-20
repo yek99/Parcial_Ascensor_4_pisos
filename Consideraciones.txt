@@ -1,0 +1,7 @@
+Integrantes: Diego Alejandro Henao, Hugo Andrés Torres.
+Parcial 1, Lenguajes de programación 2, POLI JIC.
+Se presenta un ascensor de 4 pisos, con interfaz gráfica junto con funciones en manual y automático.
+Se tienen pulsadores en las botoneras debido a su facilidad a la hora de trabajar los eventos y la máquina de estados.
+Solo se maneja una funcion creada por los desarrolladores, que se encuentra dentro del mismo repositorio. 
+Sabado 19 de septiembre del 2019. 
+
